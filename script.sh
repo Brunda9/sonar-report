@@ -1,7 +1,7 @@
 #!/bin/bash
  
 # Set environment variables
-SONAR_JAR="sonar-cnes-report-4.3.0.jar"
+SONAR_JAR="sonar-cnes-report.jar"
 SONAR_URL="https://gbssonar.edst.ibm.com/sonar"
 AUTHOR_NAME="Admin"
 REPO_FILE="repos.txt"
