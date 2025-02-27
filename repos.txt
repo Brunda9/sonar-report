@@ -1,6 +1,0 @@
-animator-core,animator-core
-slack-bot-animator,slack-bot-animator
-animator-slack-parser,    main
-aiops-adapter-ms,main
-Spring-Petclinic,dec6-upgrade-2024
-aiops-coreai-api-ticket-triaging-app-python,main
